@@ -3,7 +3,7 @@
 $ - cat note.txt
 Currently feeling - Invisible by Duran Duran
 
-$ - finger about
+$ - finger radsadsoap
 Login: vinayak                          Name: Vinayak Sharma
 Directory: /home/vinayak                Shell: /usr/bin/bash
 On since Oct 23 2004 (IST) from :0
@@ -18,3 +18,5 @@ Plan:
 $ - systemctl status
 miraculously hollowed
 </pre>
+
+[![Linkedin](https://img.shields.io/badge/Linkedin-vinayaksharma2004-blue?style=flat&link=https://www.linkedin.com/in/vinayaksharma2004/)](https://www.linkedin.com/in/vinayaksharma2004/) [![X](https://img.shields.io/badge/X-vinstm8432-blue?style=flat&link=https://x.com/vinstm8432)](https://x.com/vinstm8432)

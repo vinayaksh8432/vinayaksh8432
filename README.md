@@ -19,4 +19,4 @@ $ - systemctl status
 miraculously hollowed
 </pre>
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-vinayaksharma2004-blue?style=flat&link=https://www.linkedin.com/in/vinayaksharma2004/)](https://www.linkedin.com/in/vinayaksharma2004/) [![X](https://img.shields.io/badge/X-vinstm8432-blue?style=flat&link=https://x.com/vinstm8432)](https://x.com/vinstm8432)
+[![Linkedin](https://img.shields.io/badge/Linkedin-vinayaksharma2004-blue?style=flat&link=https://www.linkedin.com/in/vinayaksharma2004/)](https://www.linkedin.com/in/vinayaksharma2004/) [![X](https://img.shields.io/badge/X-vinstm8432-blue?style=flat&link=https://x.com/vinstm8432)](https://x.com/vinstm8432) [![website](https://img.shields.io/badge/Website-portfolio.me-blue?style=flat&link=https://radsadsoap.github.io/profile.me/)](https://radsadsoap.github.io/profile.me/)
